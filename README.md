@@ -13,8 +13,9 @@
 
 ## 引用
 > 一级引用
->> 二级引用
->>> 三级引用
+> > 二级引用
+> >
+> > > 三级引用
 
 ## 列表
 ### 无序列表
@@ -50,7 +51,7 @@
 ## 表格
 
 游戏名|游戏人物|任务|完成度
---|：--：|：--：|--：
+--|:--:|:--:|--:
 居左|居中|居中|居右
 王者|孙尚香|推塔|100%
 
@@ -80,7 +81,7 @@ echo 回显命令
 ```
 
 ## 插入超链接
-[https:/www.bilibili.com](https://www.bilibili.com "点击进入b站")
+[https://www.bilibili.com](https://www.bilibili.com "点击进入b站")
 
 ## 插入图片
 ![壁纸01](C://Users//Administrator//Pictures//Screenshots//屏幕截图 2023-03-02 105304.png "壁纸01")
