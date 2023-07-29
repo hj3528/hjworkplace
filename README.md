@@ -40,3 +40,52 @@
      * 互斥锁、读写锁、文件锁、旋转锁
   2. 线程同步
      * 条件变量、信号量
+
+## 内容分割线
+第一段
+--------
+第二段
+--------
+
+## 表格
+
+游戏名|游戏人物|任务|完成度
+--|：--：|：--：|--：
+居左|居中|居中|居右
+王者|孙尚香|推塔|100%
+
+
+## 插入代码片段
+```c
+#include<stdio.h>
+```
+
+```cpp
+#include<iostream>
+using namespace std;
+```
+
+```python
+import os;
+```
+
+```java
+#一段java代码
+```
+
+```bash
+netstate -apn 查看网络设备占用的命令
+pwd
+echo 回显命令
+```
+
+## 插入超链接
+[https:/www.bilibili.com](https://www.bilibili.com "点击进入b站")
+
+## 插入图片
+![壁纸01](C://Users//Administrator//Pictures//Screenshots//屏幕截图 2023-03-02 105304.png "壁纸01")
+本地图片无法在例如github这种网站中显示
+* 如果需要显示图片， 将图片上传到图床网站，生成网络地址url ， 而后使用url即可
+
+
+
